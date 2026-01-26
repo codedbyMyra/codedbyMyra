@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌧️ Hi, I'm Rainy! 🌈<br>📚 Studying Software Analysis and Development 🖥️<br>🌍 Polyglot 💬<br>💻 Frontend Dev ✨</p>
+<p align="left">🌧️ Hi, I'm Myra! 🌈<br>📚 Studying Computer science on IFPR 🖥️<br>🌍 PT/ENG 💬<br>💻 Data enthusiastic ✨</p>
 
 ###
 
@@ -31,16 +31,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rainyism&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainyism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=myra-data&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myra-data&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/michellymorena">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=michellymorena&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
+
