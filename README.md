@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌧️ Hi, I'm Myra! 🌈<br>📚 Studying Computer Science on IFPR 🖥️<br>🌍 PT/ENG 💬<br>💻 Data Enthusiastic ✨</p>
+<p align="left">🌷 Hi, I'm Myra!✨ <br>📚 Studying Computer Science on IFPR 🖥️<br>🌍 PT/ENG 💬<br>💻 Data Enthusiastic 🎲 </p>
 
 ###
 
