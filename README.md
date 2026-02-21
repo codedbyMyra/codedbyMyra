@@ -4,7 +4,7 @@
 
 <p align="left">
   🎓 <b>Studying Computer Science at IFPR</b> 🖥️<br>
-  🌍 <b>Languages:</b> 🇧🇷 PT | 🇺🇸 ENG | 🇫🇷 FR (Learning) 💬<br>
+  🌍 <b>Languages:</b> PT (native) | ENG (B1/B2) | FR (Learning) 💬<br>
   📊 <b>Data Enthusiastic</b> 🎲
 </p>
 
